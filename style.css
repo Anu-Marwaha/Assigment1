@@ -1,0 +1,15 @@
+.header{
+    background-color: red;
+}
+
+.body{
+    background-color: aliceblue;
+}
+.footer{
+    background-color: aquamarine;
+}
+
+img{
+    width:"20px";
+    height: "20px";
+}
